@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "cityscoot_technical_test",
+    "slug": "cityscoot_technical_test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
